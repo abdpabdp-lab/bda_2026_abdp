@@ -1,6 +1,6 @@
 # Índice Principal - Práctica de Big Data Aplicado
 
-ÍNDICE DE PRÁCTICAS: Desde aquí se accde a las diferentes Unidadesde de Trabajo:
+ÍNDICE DE PRÁCTICAS: Desde aquí se accede a las diferentes Unidadesde de Trabajo:
 
 ## Unidades de Trabajo
 * [UT01: ](./ut01/index.md)

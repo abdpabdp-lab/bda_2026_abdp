@@ -1,13 +1,8 @@
-# UT01
+# Práctica - PR0102:
 
-Aquí está la práctica PR0101 de UT01:
+* [Actualmente está vacía ]
 
-# Prácticas de UT01:
-
-* [Práctica PR0101: ](pr0101/pr0101.md)
-* [Práctica PR0102: ](pr0102/pr0102.md)
-
-*[Volver al nivel superior](../index.md)
+[Volver al índice](../index.md)
 
 
 
