@@ -1,6 +1,9 @@
 # Asignatura: Big-Data aplicado
 
-Este proyecto es de la asignatura de Big-Data aplicado
+Este resositorio de la asignatura de Big-Data Aplicado contiene todas las prácticas de las diferentes unidades de trabajo.
+
+La documentación está estructurada en Unidades de Trabajo (UT0X) y las práctica tiene formado Markdown.
+
 
 ## Estructura
 - **ut01/**: UT01 PARADIGMAS DISTRIBUIDOS.
