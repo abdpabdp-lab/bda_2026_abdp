@@ -1,9 +1,6 @@
-# Índice Principal - Práctica de Big Data Aplicado
+# Índice de Prácticas - BDA
 
-ÍNDICE DE PRÁCTICAS: Desde aquí se accede a las diferentes Unidadesde de Trabajo:
+* [Repositorio en GitHub](https://github.com{tu_usuario}/bda_2026_{iniciales})
 
 ## Unidades de Trabajo
-* [UT01: ](./ut01/index.md)
-* [UT02: ](./ut02/index.md)
-
-[Ver este repositorio en GitHub: ](https://github.com/abdpabdp-lab/bda_2026_abdp)
+* [UT01: Introducción y preparación del entorno](ut01/index.md)

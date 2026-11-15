@@ -1,8 +1,7 @@
-# Práctica - PR0102:
+# UT01:	PARADIGMAS DISTRIBUIDOS
 
-* [Actualmente está vacía ]
+## Prácticas
+* [PR0101: Repositorio en GitHub](pr0101/pr0101.md)
 
-[Volver al índice](../index.md)
-
-
-
+---
+[Volver al índice principal](../index.md)

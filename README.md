@@ -1,10 +1,4 @@
-# Asignatura: Big-Data aplicado
+# Prácticas de Big Data Aplicado (BDA)
 
-Este resositorio de la asignatura de Big-Data Aplicado contiene todas las prácticas de las diferentes unidades de trabajo.
+Este repositorio contiene las prácticas realizadas durante el curso 2026-2027 para el módulo de Big Data Aplicado.
 
-La documentación está estructurada en Unidades de Trabajo (UT0X) y las práctica tiene formado Markdown.
-
-
-## Estructura
-- **ut01/**: UT01 PARADIGMAS DISTRIBUIDOS.
-- **ut02/**: UT02 ALMACENAMIENTO DISTRIBUIDO E INTEGRIDAD CON HDFS.
