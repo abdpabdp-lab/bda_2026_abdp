@@ -5,4 +5,4 @@
 
 
 ---
-[Volver al índice principal](../index.md)
+[Volver al índice](../index.md)
